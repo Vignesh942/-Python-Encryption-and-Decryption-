@@ -12,13 +12,13 @@ This Python script provides a simple yet secure way to **encrypt and decrypt mes
   Decrypts the encrypted message when the correct key is provided.  
 
 ## How It Works  
-1️⃣ **Key Generation**  
+1️) **Key Generation**  
    A random encryption key is generated using `Fernet.generate_key()`.  
 
-2️⃣ **Encryption**  
+2️) **Encryption**  
    The user inputs a message, which is then encrypted using the generated key.  
 
-3️⃣ **Decryption**  
+3️) **Decryption**  
    The user enters the key to decrypt the message. If the key matches, the message is successfully decrypted.  
 
 ## License  
