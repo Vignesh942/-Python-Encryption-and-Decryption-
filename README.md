@@ -22,4 +22,4 @@ This Python script provides a simple yet secure way to **encrypt and decrypt mes
    The user enters the key to decrypt the message. If the key matches, the message is successfully decrypted.  
 
 ## License  
-This project is licensed under the **MIT License**, allowing for free use, modification, and distribution.
+This project is licensed under the **MIT License**.
